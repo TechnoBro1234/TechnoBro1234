@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RagingBro/RagingBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I'm Victor DeMambro. I'm in 8th grade, proficient in Python, and taking 9th grade math. My pronouns are he/him.
