@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Victor DeMambro. I'm in 8th grade, proficient in Python, and taking 9th grade math. My pronouns are he/him.
+Hey, I'm Victor DeMambro. I'm in 9th grade, proficient in Python, and taking Geometry Honors with a friend. My pronouns are he/him and a fun fact about me is that I like Fire Emblem.
